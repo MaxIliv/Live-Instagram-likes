@@ -44,7 +44,6 @@ function bottomPos() {
 
 function setup() {
   bindEvents();
-
   draw();
 }
  
